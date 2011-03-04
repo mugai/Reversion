@@ -59,7 +59,8 @@ namespace TestProject
         {
             //perform some actions against your database using your repository class
             //perform a set of assertions against some criteria to ensure the database matches your expectations
-            //now we revert it back to the original state
+            
+			//these changes will revert back to their original state once the clean up method runs
         }
     }
 }
