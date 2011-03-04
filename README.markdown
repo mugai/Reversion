@@ -1,9 +1,10 @@
 Reversion is a database reverting tool that will help to facilitate unit testing against your repository interfaces
 ===================================================================================================================
 
-Databases currently supported: (adapters are used to handle all database communication, so hopefully others can contribute new ones to support new databases)
-* MS SQL Server: Yes
-* All others: Pending
+Databases currently supported:
+------------------------------
+* MS SQL Server:	Yes
+* All others:		Pending
 
 How do you install it?
 ------------------
